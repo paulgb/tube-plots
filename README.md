@@ -4,8 +4,8 @@ Each plot is a [Pluto.jl](https://github.com/fonsp/Pluto.jl) notebook and may ha
 | Plot | YouTube video | Preview | Notes |
 | ---- | ------------- | ------- | ----- |
 | Moire Triangles | [YouTube](https://www.youtube.com/watch?v=O7mgvS0EF40) | | |
-| Snowflake | [YouTube](https://www.youtube.com/watch?v=LSsMdzUpIhM) | | |
+| Snowflake | [YouTube](https://www.youtube.com/watch?v=LSsMdzUpIhM) | ![](plots/20201212-snowflake.svg) | |
 
 ![](plots/20201129-moire.svg)
 
-![](plots/20201212-snowflake.svg)
+
